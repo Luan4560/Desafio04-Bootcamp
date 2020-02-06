@@ -1,0 +1,10 @@
+.post-content {
+  width: 720px;
+  margin: 0;
+  height: 300px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-content: center;
+}
